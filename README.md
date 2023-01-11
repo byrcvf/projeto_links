@@ -4,7 +4,6 @@
 
 <p align="center">
   <img alt="Projeto Links" src=".github/preview.jpg" width="100%">
-  <p>O projeto Links é um repositório de links online!</p>
 </p>
 
 ## 🚀 Tecnologias
