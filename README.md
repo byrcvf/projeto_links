@@ -23,5 +23,4 @@ O projeto Links é um repositório de links para usar como cartão de visitas de
 
 ---
 
-Projeto desenvolvido por @byrcvf_dev 👋
-(Embarque nessa jornada também, venha para a Rocketseat ♥)
+Projeto desenvolvido por @byrcvf_dev ♥
